@@ -1,0 +1,6 @@
+[submodule "son"]
+	path = son
+	url = git@github.com:shuocheng1216/son.git
+[submodule "daughter"]
+	path = daughter
+	url = git@github.com:shuocheng1216/daughter.git
